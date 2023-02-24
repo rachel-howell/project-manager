@@ -1,11 +1,71 @@
 {
   "Version": 1,
-  "Hash": "sJu68PW1WdVv2qNrsUp24cDQmhkaqY+a9khSJgookCs=",
+  "Hash": "0QVW9AOrRGiUos0QcGRK51B7D/coETtp1Bt2ps1NV1Q=",
   "Source": "project-manager",
   "BasePath": "_content/project-manager",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "project-manager/wwwroot",
+      "Source": "project-manager",
+      "ContentRoot": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/",
+      "BasePath": "_content/project-manager",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/css/app.css",
+      "SourceId": "project-manager",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/",
+      "BasePath": "_content/project-manager",
+      "RelativePath": "css/app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/app.css"
+    },
+    {
+      "Identity": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/html/default.html",
+      "SourceId": "project-manager",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/",
+      "BasePath": "_content/project-manager",
+      "RelativePath": "html/default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/html/default.html"
+    },
+    {
+      "Identity": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/js/utility.js",
+      "SourceId": "project-manager",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/",
+      "BasePath": "_content/project-manager",
+      "RelativePath": "js/utility.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/utility.js"
+    }
+  ]
 }

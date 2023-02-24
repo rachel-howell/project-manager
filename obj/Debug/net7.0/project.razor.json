@@ -18643,6 +18643,12 @@
     "CSharpLanguageVersion": 1100
   },
   "RootNamespace": "project_manager",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }

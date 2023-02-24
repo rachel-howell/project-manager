@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/html/default.html",
+      "PackagePath": "staticwebassets/html/default.html"
+    },
+    {
+      "Id": "/Users/rachelhowell/Documents/Builds/dotnet/project-manager/wwwroot/js/utility.js",
+      "PackagePath": "staticwebassets/js/utility.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.project-manager.props",
+      "PackagePath": "build\\project-manager.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.project-manager.props",
+      "PackagePath": "buildMultiTargeting\\project-manager.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.project-manager.props",
+      "PackagePath": "buildTransitive\\project-manager.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.project-manager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
